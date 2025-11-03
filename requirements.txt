@@ -1,0 +1,9 @@
+streamlit
+faiss-cpu
+joblib
+pandas
+numpy
+thefuzz
+requests
+huggingface_hub
+
