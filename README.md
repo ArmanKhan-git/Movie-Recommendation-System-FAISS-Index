@@ -1,8 +1,8 @@
 # 🎬 Movie Recommendation System
 
-A smart movie recommendation system that suggests similar movies based on your favorites. Built with FAISS vector search and features 10,000+ Hollywood and Bollywood movies.
+A smart movie recommendation system that suggests similar movies based on your favorites. Built with FAISS vector search and features 25,000+ Hollywood and Bollywood movies.
 
-## 🚀 [Live Demo](your-streamlit-app-link)
+## 🚀 [Live Demo](https://faissmoviesearch.streamlit.app/)
 
 ---
 
