@@ -73,7 +73,7 @@ streamlit run app.py
 ## Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/ArmanKhan-git)
+- GitHub: [@ArmanKhan-git](https://github.com/ArmanKhan-git)
 
 ---
 
